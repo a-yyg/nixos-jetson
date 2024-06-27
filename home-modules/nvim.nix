@@ -30,6 +30,7 @@
   programs.nixvim = {
     enable = true;
     enableMan = true;
+    colorscheme = "torte";
     # colorschemes.catppuccin = {
     #   enable = true;
     #   settings.background.dark = "mocha";
